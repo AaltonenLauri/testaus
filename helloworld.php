@@ -5,8 +5,6 @@
 class Helloworld extends Universe implements Timetravel
 {
     
-    private shuttle = "Discovery";
-    
     public function __construct()
     {
         echo 'The class "', __CLASS__, '" was initiated!<br />';
@@ -15,11 +13,6 @@ class Helloworld extends Universe implements Timetravel
     public function __destruct()
     {
         echo 'The class "', __CLASS__, '" was destroyed.<br />';
-    }
-    
-    function sayHello ($name)
-    {
-        return 'Hello World! Hello ' . $name . '!<br />';   
     }
     
 }
