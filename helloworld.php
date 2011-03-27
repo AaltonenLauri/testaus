@@ -15,4 +15,4 @@ class Helloworld extends Universe implements Timetravel
         echo 'The class "', __CLASS__, '" was destroyed.<br />';
     }
     
-}
+ 
