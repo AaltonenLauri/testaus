@@ -9,4 +9,4 @@ class Helloworld
 end
 
 hello = Helloworld.new
-hello.greet
+hello.greet * 2
