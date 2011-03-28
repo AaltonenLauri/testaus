@@ -12,6 +12,7 @@ class Publisher(models.Model):
         return self.name
 
 # Testi kommentti
+# nico
 
 class Author(models.Model):
     first_name = models.CharField(max_length=30)
