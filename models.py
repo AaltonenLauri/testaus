@@ -11,6 +11,8 @@ class Publisher(models.Model):
     def __unicode__(self):
         return self.name
 
+# Testi kommentti
+
 class Author(models.Model):
     first_name = models.CharField(max_length=30)
     last_name = models.CharField(max_length=40)
