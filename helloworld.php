@@ -1,3 +1,4 @@
+<?php
 /*
  * Simple example to showcase PHP syntax highlighting in Cloud9 IDE
  */
@@ -21,3 +22,5 @@ class Helloworld extends Universe implements Timetravel
      * Hyvin toimii :)
      */
 }
+
+?>
