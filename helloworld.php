@@ -16,4 +16,8 @@ class Helloworld extends Universe implements Timetravel
     }
     
     // Tämä on testi, jos vaikka saataisiin homma toimimaan ASDLOL!
+    
+    /*
+     * Hyvin toimii :)
+     */
 }
