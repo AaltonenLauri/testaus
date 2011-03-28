@@ -1,1 +1,5 @@
-empty file.
+git remote add aaltonen git@github.com:AaltonenLauri/testaus.git
+
+git add komennot.txt
+
+git push aaltonen master
