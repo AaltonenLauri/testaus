@@ -1,6 +1,30 @@
+/*
+
+Versiohistoria:
+
+versio 0.1
+ * toinen versio
+ * työlistausta
+
+versio 0.01
+ * ensimmäinen versio
+
+*/
+
 - Pitäskö luoda uus projekti tolle webkaupalle?
 - GitHub repo uusi
 - Lisää Antti, Lauri, Pasi ja Nico GitHub repoon
 - Lisää kaikki tähän projektiin
 
 - Pitää varmaan luoda se peruskansiorakenne tähän, minkä sitten porukka voi kopioida omalla koneellensa
+
+Projektin työlistaa:
+
+Sovellusrakenteen suunnittelu
+Tietokannan suunnittelu
+XAMPP konffaus
+Ulkoasun suunnittelu (siitä ekasta versiosta hieman paranneltu)
+Ulkoasun toteutus CSS
+JavaScript kilkkeet, jQuery+Fancybox+nivo slider
+
+Testaus sitten lopuksi
