@@ -1,0 +1,6 @@
+- Pitäskö luoda uus projekti tolle webkaupalle?
+- GitHub repo uusi
+- Lisää Antti, Lauri, Pasi ja Nico GitHub repoon
+- Lisää kaikki tähän projektiin
+
+- Pitää varmaan luoda se peruskansiorakenne tähän, minkä sitten porukka voi kopioida omalla koneellensa
